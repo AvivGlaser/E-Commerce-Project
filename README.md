@@ -24,7 +24,7 @@ From JSX and React Components, through React router dom, HOC, Axios, and of cour
 * Cloudinary
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install it locally using npm/yarn command:
 
 ```
 $ cd ../lorem
@@ -33,4 +33,4 @@ $ npm start
 ```
 
 Or you can visit my firebase link below: 
-https://e-commerce-project-aviv-glaser.firebaseapp.com/
+* https://e-commerce-project-aviv-glaser.firebaseapp.com/
