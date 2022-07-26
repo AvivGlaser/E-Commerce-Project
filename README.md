@@ -32,5 +32,5 @@ $ npm install
 $ npm start
 ```
 
-Or you can visit my firebase link below: 
+Or you can visit my Firebase link below: 
 * https://e-commerce-project-aviv-glaser.firebaseapp.com/
