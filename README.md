@@ -1,6 +1,6 @@
 ## Table of contents
 * [General info](#general-info)
-* [Guidlines](#Guidlines)
+* [Guidlines](#my-guidlines)
 * [Technologies & Frameworks](#technologies)
 * [Setup](#setup)
 
@@ -11,7 +11,7 @@ Some initial products are brought through api request and are saved immediately 
 The goal of the project was to use as much as React capabilities as possible.
 From JSX and React Components, through React router dom, HOC, Axios, and of course React hooks. 
 	
-## Guidlines
+## My guidlines
 * Never repeat yourself.
 * Let the machine work for you.
 * Write clean, short and understandable code.
