@@ -6,10 +6,10 @@
 
 ## General info
 Frontend only.
-This project is a demonstration of an e-commerce site. The user can search, delete, add & create products to general product page or his personal cart.
-Some initial products are brought through api request and are saved immediately to Redux and Local Storage.
+This project is a demonstration of an e-commerce site. The user can search, delete, add & create products to general product-page or his own personal cart.
+Initial products stored immediately to Redux and Local Storage after received from an API-request.
 The goal of the project was to use as much as React capabilities as possible.
-From JSX and React Components, through React router dom, HOC, Axios, and of course React hooks. 
+From JSX and React Components, through React Router, HOC, Axios, and of course React Hooks. 
 	
 ## My Guidelines
 * Never repeat yourself.
@@ -24,7 +24,7 @@ From JSX and React Components, through React router dom, HOC, Axios, and of cour
 * Cloudinary
 	
 ## Setup
-To run this project, install it locally using npm/yarn command:
+To run this project, install it locally using npm/yarn commands:
 
 ```
 $ cd ../lorem
