@@ -1,5 +1,6 @@
 ## Table of contents
 * [General info](#general-info)
+* [Guidlines](#Guidlines)
 * [Technologies & Frameworks](#technologies)
 * [Setup](#setup)
 
@@ -9,6 +10,11 @@ This project is a demonstration of an e-commerce site. The user can search, dele
 Some initial products are brought through api request and are saved immediately to Redux and Local Storage.
 The goal of the project was to use as much as React capabilities as possible.
 From JSX and React Components, through React router dom, HOC, Axios, and of course React hooks. 
+	
+## Guidlines
+* Never repeat yourself.
+* Let the machine work for you.
+* Write clean, short and understandable code.
 	
 ## Technologies
 * React
