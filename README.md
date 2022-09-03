@@ -2,48 +2,32 @@
 * [General info](#general-info)
 * [Guidelines](#my-guidlines)
 * [Technologies & Frameworks](#technologies)
-* [Coming Soon](#comingsoon)
-
 * [Setup](#setup)
 
 ## General info
-Frontend only.
-This project is a demonstration of an e-commerce site. The user can search, delete, add & create products to general product-page or his own personal cart.
-Initial products stored immediately to Redux and Local Storage after received from an API-request.
-The goal of the project was to use as much as React capabilities as possible.
-From JSX and React Components, through React Router, HOC, Axios, and of course React Hooks. 
-	
-## My Guidelines
-* Never repeat yourself.
-* Let the machine work for you.
-* Write clean, short and understandable code.
+End-to-end vacations site (Frontend, Backend, Data Base).
+The user registers to site and his credential are saved to DB (password is hashed).
+After registration the user can login to site and receive a signed token (via JWT), then he can search, follow & order Vacation Deals in site.
+Admin can create, delete or edit vacations (DB updated immediately), and also view most followed vacations deals through 'Reports' page.
 	
 ## Technologies
 * React
-* Node JS (Express)
-* MySQL
 * Typescript
-* Docker
 * Redux Toolkit
 * M-ui
 * Cloudinary
 	
-	
-## Coming Soon
-* Intergration & unit test (mocha, chai)
-* Real time notifications for logged users on new vacation deals (Advanced Socket IO)
-* Search Vacations by multiple categories
-* Option to update more personal info
-* Upgraded 'Order Page' suitable for Vacation site
-*More complex queries and data base involvement
-
 ## Setup
-To run this project, install it locally using npm/yarn commands in 'src' files (API & Client):
+To run this project, install it locally using npm/yarn commands:
 
 ```
-$ cd ../lorem -> 'src' file
-$ npm i
+$ cd ../lorem
+$ npm install
 $ npm start
 ```
+
+Or you can visit my Firebase link below: 
+* https://e-commerce-project-aviv-glaser.firebaseapp.com/
+
 
 
