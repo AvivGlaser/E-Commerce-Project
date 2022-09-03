@@ -2,6 +2,8 @@
 * [General info](#general-info)
 * [Guidelines](#my-guidlines)
 * [Technologies & Frameworks](#technologies)
+* [Coming Soon](#coming soon)
+
 * [Setup](#setup)
 
 ## General info
@@ -18,19 +20,30 @@ From JSX and React Components, through React Router, HOC, Axios, and of course R
 	
 ## Technologies
 * React
+* Node JS (Express)
+* MySQL
 * Typescript
+* Docker
 * Redux Toolkit
 * M-ui
 * Cloudinary
 	
+	
+## Coming Soon:
+* Intergration & unit test (mocha, chai)
+* Real time notifications for logged users on new vacation deals (Advanced Socket IO)
+* Search Vacations by multiple categories
+* Option to update more personal info
+* Upgraded 'Order Page' suitable for Vacation site
+*More complex queries and data base involvement
+
 ## Setup
-To run this project, install it locally using npm/yarn commands:
+To run this project, install it locally using npm/yarn commands in 'src' files (API & Client):
 
 ```
-$ cd ../lorem
-$ npm install
+$ cd ../lorem -> 'src' file
+$ npm i
 $ npm start
 ```
 
-Or you can visit my Firebase link below: 
-* https://e-commerce-project-aviv-glaser.firebaseapp.com/
+
