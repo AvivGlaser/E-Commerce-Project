@@ -2,7 +2,7 @@
 * [General info](#general-info)
 * [Guidelines](#my-guidlines)
 * [Technologies & Frameworks](#technologies)
-* [Coming Soon](#coming soon)
+* [Coming Soon](#comingsoon)
 
 * [Setup](#setup)
 
