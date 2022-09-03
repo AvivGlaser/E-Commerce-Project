@@ -2,7 +2,7 @@
 * [General info](#general-info)
 * [Guidelines](#my-guidlines)
 * [Technologies & Frameworks](#technologies)
-* [ComingSoon](#comingsoon)
+* [Coming Soon](#comingsoon)
 
 * [Setup](#setup)
 
@@ -29,7 +29,7 @@ From JSX and React Components, through React Router, HOC, Axios, and of course R
 * Cloudinary
 	
 	
-## Coming Soon:
+## Coming Soon
 * Intergration & unit test (mocha, chai)
 * Real time notifications for logged users on new vacation deals (Advanced Socket IO)
 * Search Vacations by multiple categories
